@@ -25,6 +25,7 @@ import org.apache.ignite.lang.*;
 import javax.cache.configuration.*;
 import java.sql.*;
 import java.util.*;
+import org.apache.ignite.cache.store.jdbc.CacheJdbcPojoStore;
 
 /**
  * CacheConfig definition.
